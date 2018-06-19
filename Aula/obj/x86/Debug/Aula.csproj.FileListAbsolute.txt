@@ -1,0 +1,9 @@
+C:\Users\wesley\AppData\Local\Temporary Projects\Aula\bin\Debug\Aula.exe
+C:\Users\wesley\AppData\Local\Temporary Projects\Aula\bin\Debug\Aula.pdb
+C:\Users\wesley\AppData\Local\Temporary Projects\Aula\obj\x86\Debug\Aula.Form1.resources
+C:\Users\wesley\AppData\Local\Temporary Projects\Aula\obj\x86\Debug\Aula.Properties.Resources.resources
+C:\Users\wesley\AppData\Local\Temporary Projects\Aula\obj\x86\Debug\Aula.csproj.GenerateResource.Cache
+C:\Users\wesley\AppData\Local\Temporary Projects\Aula\obj\x86\Debug\Aula.exe
+C:\Users\wesley\AppData\Local\Temporary Projects\Aula\obj\x86\Debug\Aula.pdb
+C:\Users\wesley\Desktop\Aula\Aula\obj\x86\Debug\Aula.exe
+C:\Users\wesley\Desktop\Aula\Aula\obj\x86\Debug\Aula.pdb
