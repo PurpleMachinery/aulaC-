@@ -15,7 +15,9 @@ namespace Aula
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            frmLogin tt = new frmLogin();
+            tt.Show();
+            Application.Run();
         }
     }
 }
